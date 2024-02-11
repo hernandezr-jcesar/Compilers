@@ -21,7 +21,7 @@
   - [Project 6](https://github.com/hernandezr-jcesar/Compilers/tree/main/P6)
 
 - <b>Practicas Con Python</b>
-  - [Python using Python](https://github.com/hernandezr-jcesar/Compilers/tree/main/PracticasConPython)
+  - [Projects using Python](https://github.com/hernandezr-jcesar/Compilers/tree/main/PracticasConPython)
 
 - <b>Repaso de C++</b>
   - [C++ Codes](https://github.com/hernandezr-jcesar/Compilers/tree/main/Repaso%20C%2B%2B)
